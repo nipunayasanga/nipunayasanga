@@ -20,7 +20,7 @@
 
 - 👯 I’m BSc IT Graduate **@ University of Sri Jayewardenepura**
 
-- 👨‍💻 All of my projects are available at [nipunayasanga.me](nipunayasanga.me)
+- 👨‍💻 All of my projects are available at [nipunayasanga.online](nipunayasanga.online)
 
 - 💬 Ask me about **Java , React**
 
